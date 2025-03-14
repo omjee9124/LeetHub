@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omjee9124/LeetHub/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
