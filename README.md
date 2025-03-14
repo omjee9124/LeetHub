@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/omjee9124/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2727-number-of-senior-citizens](https://github.com/omjee9124/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/omjee9124/LeetHub/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
+| [2727-number-of-senior-citizens](https://github.com/omjee9124/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3483-alternating-groups-ii](https://github.com/omjee9124/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/omjee9124/LeetHub/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
