@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/omjee9124/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omjee9124/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/omjee9124/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
