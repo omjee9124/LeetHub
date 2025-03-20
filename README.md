@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omjee9124/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/omjee9124/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
