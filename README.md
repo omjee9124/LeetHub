@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/omjee9124/LeetHub/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/omjee9124/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/omjee9124/LeetHub/tree/master/2690-house-robber-iv) |
