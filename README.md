@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/omjee9124/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/omjee9124/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/omjee9124/LeetHub/tree/master/2690-house-robber-iv) |
 | [2727-number-of-senior-citizens](https://github.com/omjee9124/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/omjee9124/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omjee9124/LeetHub/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omjee9124/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/omjee9124/LeetHub/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/omjee9124/LeetHub/tree/master/3430-count-days-without-meetings) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
 ## Number Theory
 |  |
 | ------- |
