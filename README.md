@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/omjee9124/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omjee9124/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omjee9124/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/omjee9124/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/omjee9124/LeetHub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/omjee9124/LeetHub/tree/master/0069-sqrtx) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omjee9124/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
@@ -153,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omjee9124/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/omjee9124/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/omjee9124/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -274,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
