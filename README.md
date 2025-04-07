@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omjee9124/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/omjee9124/LeetHub/tree/master/2478-longest-nice-subarray) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/omjee9124/LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/omjee9124/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
