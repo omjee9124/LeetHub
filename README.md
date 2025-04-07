@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/omjee9124/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/omjee9124/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
