@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
