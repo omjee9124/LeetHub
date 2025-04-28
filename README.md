@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/omjee9124/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/omjee9124/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/omjee9124/LeetHub/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omjee9124/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/omjee9124/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/omjee9124/LeetHub/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/omjee9124/LeetHub/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/omjee9124/LeetHub/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/omjee9124/LeetHub/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/omjee9124/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/omjee9124/LeetHub/tree/master/3643-zero-array-transformation-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/omjee9124/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/omjee9124/LeetHub/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/omjee9124/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
