@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/omjee9124/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/omjee9124/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/omjee9124/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
