@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/omjee9124/LeetHub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omjee9124/LeetHub/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omjee9124/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/omjee9124/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omjee9124/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/omjee9124/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
