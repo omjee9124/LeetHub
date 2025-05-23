@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/omjee9124/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omjee9124/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omjee9124/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/omjee9124/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/omjee9124/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/omjee9124/LeetHub/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omjee9124/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -491,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omjee9124/LeetHub/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
