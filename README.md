@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/omjee9124/LeetHub/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/omjee9124/LeetHub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omjee9124/LeetHub/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/omjee9124/LeetHub/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/omjee9124/LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/omjee9124/LeetHub/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/omjee9124/LeetHub/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
