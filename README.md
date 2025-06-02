@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/omjee9124/LeetHub/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omjee9124/LeetHub/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/omjee9124/LeetHub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omjee9124/LeetHub/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/omjee9124/LeetHub/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
