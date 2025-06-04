@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/omjee9124/LeetHub/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/omjee9124/LeetHub/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/omjee9124/LeetHub/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/omjee9124/LeetHub/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/omjee9124/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
 ## Monotonic Queue
 |  |
@@ -564,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
