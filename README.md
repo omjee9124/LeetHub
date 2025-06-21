@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/omjee9124/LeetHub/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/omjee9124/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/omjee9124/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/omjee9124/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/omjee9124/LeetHub/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/omjee9124/LeetHub/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/omjee9124/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/omjee9124/LeetHub/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/omjee9124/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
