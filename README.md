@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/omjee9124/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1916-find-center-of-star-graph](https://github.com/omjee9124/LeetHub/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/omjee9124/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
