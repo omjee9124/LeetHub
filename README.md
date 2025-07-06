@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/omjee9124/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omjee9124/LeetHub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/omjee9124/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omjee9124/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/omjee9124/LeetHub/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/omjee9124/LeetHub/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omjee9124/LeetHub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/omjee9124/LeetHub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/omjee9124/LeetHub/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/omjee9124/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omjee9124/LeetHub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
