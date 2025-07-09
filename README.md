@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/omjee9124/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/omjee9124/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/omjee9124/LeetHub/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/omjee9124/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1916-find-center-of-star-graph](https://github.com/omjee9124/LeetHub/tree/master/1916-find-center-of-star-graph) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/omjee9124/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/omjee9124/LeetHub/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omjee9124/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/omjee9124/LeetHub/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/omjee9124/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/omjee9124/LeetHub/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/omjee9124/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/omjee9124/LeetHub/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/omjee9124/LeetHub/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omjee9124/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/omjee9124/LeetHub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
