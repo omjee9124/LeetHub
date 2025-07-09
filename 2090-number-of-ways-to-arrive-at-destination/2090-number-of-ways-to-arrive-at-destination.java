@@ -1,48 +1,56 @@
 class Solution {
-    public int countPaths(int n, int[][] roads) {
-        List<List<int[]>> graph = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
+    static int MOD = (int)1e9+7;
+    static class Pair{
+        long dist;
+        int Node;
+        Pair(long dist, int Node){
+            this.dist = dist;
+            this.Node = Node;
         }
-        
-        for (int[] road : roads) {
-            int u = road[0], v = road[1], time = road[2];
-            graph.get(u).add(new int[]{v, time});
-            graph.get(v).add(new int[]{u, time});
-        }
-
-        long[] dist = new long[n];
-        int[] ways = new int[n];
-        Arrays.fill(dist, Long.MAX_VALUE);
-        dist[0] = 0;
+    }
+    public int countPaths(int V, int[][] roads) {
+        int []ways = new int[V];
+        Arrays.fill(ways,0);
         ways[0] = 1;
 
-        PriorityQueue<long[]> pq = new PriorityQueue<>(Comparator.comparingLong(a -> a[0]));
-        pq.offer(new long[]{0, 0});
 
-        int MOD = 1_000_000_007;
+        List<List<int[]>> adj= new ArrayList<>();
+        for(int i =0; i< V; i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int[] edge : roads){
+            int u = edge[0];
+            int v = edge[1];
+            int cost = edge[2];
+            adj.get(u).add(new int[]{v,cost});
+            adj.get(v).add(new int[]{u,cost});
+            
+        }
 
-        while (!pq.isEmpty()) {
-            long[] curr = pq.poll();
-            long d = curr[0];
-            int node = (int) curr[1];
+        PriorityQueue<Pair> PQ = new PriorityQueue<>((a,b)->Long.compare(a.dist,b.dist));
+        long distance[] = new long[V];
+        Arrays.fill(distance,Long.MAX_VALUE);
+        PQ.add(new Pair(0L,0));
+        distance[0] = 0;
 
-            if (d > dist[node]) continue;
-
-            for (int[] neighbor : graph.get(node)) {
-                int nextNode = neighbor[0];
-                int time = neighbor[1];
-
-                if (dist[node] + time < dist[nextNode]) {
-                    dist[nextNode] = dist[node] + time;
-                    ways[nextNode] = ways[node];
-                    pq.offer(new long[]{dist[nextNode], nextNode});
-                } else if (dist[node] + time == dist[nextNode]) {
-                    ways[nextNode] = (ways[nextNode] + ways[node]) % MOD;
+        while(!PQ.isEmpty()){
+            Pair p = PQ.poll();
+            int u = p.Node;
+            long d_u = p.dist;
+            if(distance[u]< d_u) continue;
+            for(int i = 0; i< adj.get(u).size(); i++){
+                int temp[] = adj.get(u).get(i);
+                int v = temp[0];
+                long c_u_v = temp[1];
+                if(distance[v]>d_u + c_u_v){
+                    distance[v] = d_u + c_u_v;
+                    PQ.offer(new Pair(distance[v],v));
+                    ways[v] = ways[u];
+                }else if(distance[v] == d_u + c_u_v){
+                    ways[v] = (ways[v] + ways[u]) % MOD;
                 }
             }
         }
-
-        return ways[n - 1];
+        return ways[V-1];
     }
 }
