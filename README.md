@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/omjee9124/LeetHub/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/omjee9124/LeetHub/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/omjee9124/LeetHub/tree/master/0518-coin-change-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/omjee9124/LeetHub/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
