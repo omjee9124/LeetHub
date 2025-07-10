@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/omjee9124/LeetHub/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1170-shortest-common-supersequence](https://github.com/omjee9124/LeetHub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/omjee9124/LeetHub/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/omjee9124/LeetHub/tree/master/0518-coin-change-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/omjee9124/LeetHub/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
+| [1170-shortest-common-supersequence](https://github.com/omjee9124/LeetHub/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/omjee9124/LeetHub/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/omjee9124/LeetHub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
