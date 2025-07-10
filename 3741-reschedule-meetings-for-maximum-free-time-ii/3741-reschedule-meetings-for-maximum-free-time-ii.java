@@ -21,12 +21,13 @@ class Solution {
 
         int max = 0, largestLeft = 0;
         for (int i = 1; i <= n; i++) {
-            int duration = endTime[i - 1] - startTime[i - 1];
-            boolean canFitLeft = largestLeft >= duration;
-            boolean canFitRight = largestRight[i] >= duration;
+            int time = endTime[i - 1] - startTime[i - 1];
+            boolean Right = largestRight[i] >= time;
+            boolean Left = largestLeft >= time;
+            
 
-            if (canFitLeft || canFitRight) {
-                int merged = gap[i - 1] + gap[i] + duration;
+            if (Left || Right) {
+                int merged = gap[i - 1] + gap[i] + time;
                 max = Math.max(max, merged);
             }
 
