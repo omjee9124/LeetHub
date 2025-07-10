@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/omjee9124/LeetHub/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/omjee9124/LeetHub/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/omjee9124/LeetHub/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/omjee9124/LeetHub/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
