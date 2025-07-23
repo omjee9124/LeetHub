@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/omjee9124/LeetHub/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omjee9124/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omjee9124/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/omjee9124/LeetHub/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/omjee9124/LeetHub/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/omjee9124/LeetHub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omjee9124/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/omjee9124/LeetHub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omjee9124/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/omjee9124/LeetHub/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/omjee9124/LeetHub/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/omjee9124/LeetHub/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/omjee9124/LeetHub/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/omjee9124/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/omjee9124/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
