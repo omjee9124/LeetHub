@@ -1,41 +1,34 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        Stack<Integer> s = new Stack<>();
-        int max = 0;
-        for (int i = 0; i < heights.length; i++) {
-            if (s.isEmpty()) {
-                s.push(i);
+        Stack<Integer> stack = new Stack<>();
+        int max =0;
+        stack.push(0);
+
+        for(int i =1;i< heights.length;i++){
+            while(!stack.isEmpty() && heights[i] < heights[stack.peek()]){
+                max = getMax(heights,stack,max,i);
+
             }
-            else if (heights[i] >= heights[s.peek()]) {
-                s.push(i);
-            } else {
-                while (!s.isEmpty() && heights[i] < heights[s.peek()]) {
-                    int h = heights[s.pop()];
-                    int nse = i;
-                    int pse;
-                    if (s.isEmpty()) {
-                        pse = -1;  
-                    } else {
-                        pse = s.peek();
-                    }
-                    int area = h * (nse - pse - 1);
-                    max = Math.max(max, area);
-                }
-                s.push(i);
-            }
+            stack.push(i);
         }
-        while (!s.isEmpty()) {
-            int nse = heights.length;
-            int h = heights[s.pop()];
-            int pse;
-            if (s.isEmpty()) {
-                pse = -1;
-            } else {
-                pse = s.peek();
-            }
-            int area = h * (nse - pse - 1);
-            max = Math.max(max, area);
+
+        int i = heights.length;
+        while(!stack.isEmpty()){
+            max = getMax(heights,stack,max,i);
         }
         return max;
+    }
+
+    private static int getMax(int[] arr, Stack<Integer> stack, int max, int i){
+        int area;
+        int popped = stack.pop();
+
+        if(stack.isEmpty()){
+            area = arr[popped] *i;
+
+        }else{
+            area = arr[popped] *(i-1-stack.peek());
+        }
+        return Math.max(area,max);
     }
 }
