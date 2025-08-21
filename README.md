@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/omjee9124/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/omjee9124/LeetHub/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/omjee9124/LeetHub/tree/master/1791-richest-customer-wealth) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/omjee9124/LeetHub/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omjee9124/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/omjee9124/LeetHub/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/omjee9124/LeetHub/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/omjee9124/LeetHub/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/omjee9124/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/omjee9124/LeetHub/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omjee9124/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/omjee9124/LeetHub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/omjee9124/LeetHub/tree/master/0496-next-greater-element-i) |
+| [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/omjee9124/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/omjee9124/LeetHub/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
