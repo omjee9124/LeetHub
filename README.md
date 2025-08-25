@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/omjee9124/LeetHub/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/omjee9124/LeetHub/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/omjee9124/LeetHub/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/omjee9124/LeetHub/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/omjee9124/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/omjee9124/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omjee9124/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/omjee9124/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
