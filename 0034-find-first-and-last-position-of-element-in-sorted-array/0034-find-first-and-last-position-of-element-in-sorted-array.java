@@ -1,31 +1,32 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int ans[] = {-1,-1};
-        ans[0] = Search(nums,target,true);
-        ans[1] = Search(nums,target,false);
-
-        return ans;
+        int arr[] = new int[]{-1,-1};
+        int left = bSearch(nums, target, true);
+        int right = bSearch(nums, target, false);
+        arr[0] = left;
+        arr[1] = right;
+        return arr;
     }
-    int Search(int arr[], int target, boolean firstIndex){
-        int s = 0;
-        int e = arr.length-1;
-        int ans = -1;
+    private int bSearch(int []nums, int target,boolean isLeft){
+        int s =0;
+        int e =nums.length-1;
+        int idx = -1;
         while(s<=e){
             int mid = s+(e-s)/2;
-            if(target>arr[mid]){
+            if(nums[mid] < target){
                 s = mid+1;
-            }else if(target< arr[mid]){
+            }else if(nums[mid] > target){
                 e = mid-1;
             }else{
-                if(firstIndex){
-                    ans = mid;
+                idx = mid;
+                if(isLeft){
                     e = mid-1;
                 }else{
-                    ans = mid;
                     s = mid+1;
                 }
             }
         }
-        return ans;
+        return idx;
     }
+
 }
