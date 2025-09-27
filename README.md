@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/omjee9124/LeetHub/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/omjee9124/LeetHub/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/omjee9124/LeetHub/tree/master/0890-lemonade-change) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/omjee9124/LeetHub/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/omjee9124/LeetHub/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/omjee9124/LeetHub/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/omjee9124/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/omjee9124/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -968,5 +970,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/omjee9124/LeetHub/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/omjee9124/LeetHub/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
