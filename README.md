@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/omjee9124/LeetHub/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/omjee9124/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/omjee9124/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/omjee9124/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0516-longest-palindromic-subsequence) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/omjee9124/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omjee9124/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/omjee9124/LeetHub/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/omjee9124/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/omjee9124/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/omjee9124/LeetHub/tree/master/0560-subarray-sum-equals-k) |
