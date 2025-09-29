@@ -2,20 +2,18 @@ class Solution {
     public boolean isIsomorphic(String s, String t) {
         if(s.length() != t.length()) return false;
 
-        int[] mapS = new int[256];
-        int[] mapT = new int[256];
+        int first[] = new int[256];
+        int sec[] = new int[256];
 
-        for (int i = 0; i < s.length(); i++) {
-            char cs = s.charAt(i);
-            char ct = t.charAt(i);
+        for(int i = 0; i< s.length(); i++){
+            char ss = s.charAt(i);
+            char tt = t.charAt(i);
 
-            if (mapS[cs] == 0 && mapT[ct] == 0) {
-                mapS[cs] = ct;
-                mapT[ct] = cs;
-            } else {
-                if (mapS[cs] != ct || mapT[ct] != cs) {
-                    return false;
-                }
+            if(first[ss] == 0 && sec[tt] == 0){
+                first[ss] = tt;
+                sec[tt] = ss;
+            }else{
+                if(first[ss] != tt || sec[tt] != ss) return false;
             }
         }
         return true;
