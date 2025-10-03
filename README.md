@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/omjee9124/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/omjee9124/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/omjee9124/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/omjee9124/LeetHub/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/omjee9124/LeetHub/tree/master/0494-target-sum) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omjee9124/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/omjee9124/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/omjee9124/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/omjee9124/LeetHub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/omjee9124/LeetHub/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/omjee9124/LeetHub/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/omjee9124/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omjee9124/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/omjee9124/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/omjee9124/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
