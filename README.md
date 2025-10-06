@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/omjee9124/LeetHub/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/omjee9124/LeetHub/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/omjee9124/LeetHub/tree/master/0830-largest-triangle-area) |
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omjee9124/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/omjee9124/LeetHub/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/omjee9124/LeetHub/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/omjee9124/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/omjee9124/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/omjee9124/LeetHub/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omjee9124/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omjee9124/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omjee9124/LeetHub/tree/master/2121-find-if-path-exists-in-graph) |
@@ -714,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/omjee9124/LeetHub/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -830,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/omjee9124/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omjee9124/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/omjee9124/LeetHub/tree/master/1917-maximum-average-pass-ratio) |
