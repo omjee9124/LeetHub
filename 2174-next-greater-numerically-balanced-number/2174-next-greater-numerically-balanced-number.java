@@ -1,6 +1,6 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-      
+  
     
         int num = n + 1;
         while (true) {
@@ -28,5 +28,5 @@ class Solution {
         return true;
     }
 }
-
+ 
     
