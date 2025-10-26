@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/omjee9124/LeetHub/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/omjee9124/LeetHub/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/omjee9124/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/omjee9124/LeetHub/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/omjee9124/LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/omjee9124/LeetHub/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/omjee9124/LeetHub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/omjee9124/LeetHub/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omjee9124/LeetHub/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/omjee9124/LeetHub/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/omjee9124/LeetHub/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/omjee9124/LeetHub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/omjee9124/LeetHub/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/omjee9124/LeetHub/tree/master/2215-finding-3-digit-even-numbers) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/omjee9124/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omjee9124/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/omjee9124/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/omjee9124/LeetHub/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/omjee9124/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omjee9124/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/omjee9124/LeetHub/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/omjee9124/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/omjee9124/LeetHub/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omjee9124/LeetHub/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/omjee9124/LeetHub/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/omjee9124/LeetHub/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/omjee9124/LeetHub/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/omjee9124/LeetHub/tree/master/3797-design-spreadsheet) |
