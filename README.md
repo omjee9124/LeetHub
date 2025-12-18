@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/omjee9124/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
+| [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/omjee9124/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/omjee9124/LeetHub/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/omjee9124/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2128-reverse-prefix-of-word](https://github.com/omjee9124/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/omjee9124/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omjee9124/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omjee9124/LeetHub/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/omjee9124/LeetHub/tree/master/0900-reordered-power-of-2) |
+| [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/omjee9124/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omjee9124/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omjee9124/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
