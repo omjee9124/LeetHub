@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/omjee9124/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/omjee9124/LeetHub/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omjee9124/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/omjee9124/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/omjee9124/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/omjee9124/LeetHub/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omjee9124/LeetHub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/omjee9124/LeetHub/tree/master/1677-matrix-diagonal-sum) |
