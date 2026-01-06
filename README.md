@@ -888,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/omjee9124/LeetHub/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/omjee9124/LeetHub/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omjee9124/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/omjee9124/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/omjee9124/LeetHub/tree/master/1753-path-with-minimum-effort) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/omjee9124/LeetHub/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omjee9124/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/omjee9124/LeetHub/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/omjee9124/LeetHub/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omjee9124/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/omjee9124/LeetHub/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/omjee9124/LeetHub/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/omjee9124/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/omjee9124/LeetHub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/omjee9124/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
