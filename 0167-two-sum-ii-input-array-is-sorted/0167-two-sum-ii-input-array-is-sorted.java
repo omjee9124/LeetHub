@@ -1,19 +1,18 @@
 class Solution {
-    public int[] twoSum(int[] arr, int target) {
+    public int[] twoSum(int[] numbers, int target) {
+        int n = numbers.length;
         int i = 0;
-        int j = arr.length-1;
-        while(i< j){
-            int sum = arr[i]+ arr[j];
+        int j = n-1;
+        while(i<j){
+            int sum = numbers[i] + numbers[j];
             if(target < sum){
                 j--;
-            }
-            else if(target > sum){
+            }else if(target > sum){
                 i++;
-            }
-            else{
-                return new int[]{i+1,j+1};
+            }else{
+                return new int[]{i+1, j+1};
             }
         }
-         return new int[]{-1,-1};
+        return new int[]{-1,-1};
     }
 }
