@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/omjee9124/LeetHub/tree/master/0867-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omjee9124/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omjee9124/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/omjee9124/LeetHub/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/omjee9124/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omjee9124/LeetHub/tree/master/0944-delete-columns-to-make-sorted) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/omjee9124/LeetHub/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/omjee9124/LeetHub/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/omjee9124/LeetHub/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/omjee9124/LeetHub/tree/master/1039-find-the-town-judge) |
