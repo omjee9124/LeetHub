@@ -1,25 +1,24 @@
 class Solution {
-    private boolean fun(int[] have, int[] need) {
+    public boolean sahi(int have[], int need[]){
         for (int i = 0; i < 256; i++) {
-            if (have[i] < need[i]) {
-                return false;
+                if (have[i] < need[i]) {
+                    return false;
+                }
             }
-        }
-        return true;
+            return true;
+
     }
 
     public String minWindow(String s, String t) {
-        int n = s.length();
-        int m = t.length();
+        int m = s.length();
+        int n = t.length();
 
-        if (n < m) {
-            return "";
-        }
+        if(m==0 || n == 0) return "";
 
-        int[] have = new int[256];
-        int[] need = new int[256];
+        int have[] = new int[256];
+        int need[] = new int[256];
 
-        for (int i = 0; i < m; i++) {
+        for(int i =0; i<n; i++){
             need[t.charAt(i)]++;
         }
 
@@ -27,22 +26,19 @@ class Solution {
         int res = Integer.MAX_VALUE;
         int start = -1;
 
-        for (int high = 0; high < n; high++) {
+        for(int high =0; high < m; high++){
             have[s.charAt(high)]++;
 
-            while (fun(have, need)) {
-                int len = high - low + 1;
-
-                if (len < res) {
+            while(sahi(have, need)){
+                int len = high -low +1;
+                if(res > len){
                     res = len;
                     start = low;
                 }
-
                 have[s.charAt(low)]--;
                 low++;
             }
         }
-
         return res == Integer.MAX_VALUE ? "" : s.substring(start, start + res);
     }
 }
