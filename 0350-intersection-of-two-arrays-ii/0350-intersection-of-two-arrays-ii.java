@@ -1,6 +1,6 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        if(nums1.length > nums2.length){
+        if(nums1.length < nums2.length){
             return intersect(nums2,nums1);
         }
         Arrays.sort(nums1);
