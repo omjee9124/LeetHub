@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/omjee9124/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/omjee9124/LeetHub/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/omjee9124/LeetHub/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/omjee9124/LeetHub/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/omjee9124/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omjee9124/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/omjee9124/LeetHub/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/omjee9124/LeetHub/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/omjee9124/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/omjee9124/LeetHub/tree/master/0342-power-of-four) |
