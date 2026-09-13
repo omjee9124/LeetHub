@@ -1,79 +1,32 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
+        int rows[][] = new int[9][9];
+        int col[][] = new int[9][9];
+        int boxes[][] = new int[9][9];
 
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
+        for(int i =0; i<9; i++){
+            for(int j =0; j<9; j++){
+                if(board[i][j] == '.') continue;
 
-                boolean A = isRowValid(i, j, board);
-                boolean B = isColValid(i, j, board);
+                int val = board[i][j] - '1';
 
-                int C = (i / 3) * 3;
-                int D = (j / 3) * 3;
-
-                boolean E = isBoxValid(i, j, C, D, board);
-
-                if (!A || !B || !E) {
+                if(rows[i][val] == 1){
                     return false;
                 }
-            }
-        }
+                rows[i][val] = 1;
 
-        return true;
-    }
-
-    boolean isRowValid(int i, int j, char[][] board) {
-
-        int count = 0;
-
-        for (int k = 0; k < 9; k++) {
-
-            if (board[i][k] == board[i][j] && board[i][k] != '.') {
-                count++;
-
-                if (count > 1) {
+                if(col[j][val] == 1){
                     return false;
                 }
-            }
-        }
+                col[j][val] = 1;
 
-        return true;
-    }
-
-    boolean isColValid(int i, int j, char[][] board) {
-
-        int count = 0;
-
-        for (int k = 0; k < 9; k++) {
-
-            if (board[k][j] == board[i][j] && board[k][j] != '.') {
-                count++;
-
-                if (count > 1) {
+                int boxidx = 3 * (i/3) + (j/3);
+                if(boxes[boxidx][val] == 1){
                     return false;
                 }
+                boxes[boxidx][val] = 1;
             }
         }
-
-        return true;
-    }
-
-    boolean isBoxValid(int i, int j, int C, int D, char[][] board) {
-
-        int count = 0;
-
-        for (int k = C; k < C + 3; k++) {
-            for (int l = D; l < D + 3; l++) {
-
-                if (board[k][l] == board[i][j] && board[k][l] != '.') {
-                    count++;
-
-                    if (count > 1) {
-                        return false;
-                    }
-                }
-            }
-        }
-
         return true;
     }
 }
