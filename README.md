@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/omjee9124/LeetHub/tree/master/0878-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/omjee9124/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/omjee9124/LeetHub/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/omjee9124/LeetHub/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/omjee9124/LeetHub/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/omjee9124/LeetHub/tree/master/2529-range-product-queries-of-powers) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/omjee9124/LeetHub/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/omjee9124/LeetHub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/omjee9124/LeetHub/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/omjee9124/LeetHub/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/omjee9124/LeetHub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/omjee9124/LeetHub/tree/master/1925-count-square-sum-triples) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omjee9124/LeetHub/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/omjee9124/LeetHub/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/omjee9124/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/omjee9124/LeetHub/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omjee9124/LeetHub/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/omjee9124/LeetHub/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1163,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omjee9124/LeetHub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/omjee9124/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/omjee9124/LeetHub/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/omjee9124/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
