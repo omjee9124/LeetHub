@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/omjee9124/LeetHub/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/omjee9124/LeetHub/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/omjee9124/LeetHub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1051-height-checker](https://github.com/omjee9124/LeetHub/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/omjee9124/LeetHub/tree/master/1089-duplicate-zeros) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/omjee9124/LeetHub/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/omjee9124/LeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/omjee9124/LeetHub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/omjee9124/LeetHub/tree/master/1018-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/omjee9124/LeetHub/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omjee9124/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/omjee9124/LeetHub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/omjee9124/LeetHub/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/omjee9124/LeetHub/tree/master/1051-height-checker) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1344,4 +1347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/omjee9124/LeetHub/tree/master/3454-separate-squares-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/omjee9124/LeetHub/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
