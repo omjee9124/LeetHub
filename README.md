@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/omjee9124/LeetHub/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/omjee9124/LeetHub/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/omjee9124/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/omjee9124/LeetHub/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omjee9124/LeetHub/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/omjee9124/LeetHub/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/omjee9124/LeetHub/tree/master/0794-swim-in-rising-water) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/omjee9124/LeetHub/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/omjee9124/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/omjee9124/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/omjee9124/LeetHub/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omjee9124/LeetHub/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/omjee9124/LeetHub/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/omjee9124/LeetHub/tree/master/0905-sort-array-by-parity) |
