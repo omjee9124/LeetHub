@@ -1,17 +1,19 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
 
-        for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>(Collections.nCopies(i + 1, 1));
-            
-            for (int j = 1; j < i; j++) {
-                int val = result.get(i - 1).get(j - 1) + result.get(i - 1).get(j);
-                row.set(j, val);
+        result.add(new ArrayList<Integer>());
+        result.get(0).add(1);
+
+        for(int row =1; row< numRows; row++){
+            List<Integer> newRow = new ArrayList<>();
+            newRow.add(1);
+            List<Integer> prevRow =result.get(row-1);
+            for(int i = 1; i < row; i++){
+                newRow.add(prevRow.get(i-1) + prevRow.get(i));
             }
-            result.add(row);
+            newRow.add(1);  
+            result.add(newRow);
         }
         return result;
     }
