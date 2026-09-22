@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/omjee9124/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/omjee9124/LeetHub/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/omjee9124/LeetHub/tree/master/0905-sort-array-by-parity) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/omjee9124/LeetHub/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/omjee9124/LeetHub/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/omjee9124/LeetHub/tree/master/0944-delete-columns-to-make-sorted) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omjee9124/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/omjee9124/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/omjee9124/LeetHub/tree/master/0868-push-dominoes) |
+| [0905-sort-array-by-parity](https://github.com/omjee9124/LeetHub/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/omjee9124/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/omjee9124/LeetHub/tree/master/1089-duplicate-zeros) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/omjee9124/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/omjee9124/LeetHub/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/omjee9124/LeetHub/tree/master/0900-reordered-power-of-2) |
+| [0905-sort-array-by-parity](https://github.com/omjee9124/LeetHub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/omjee9124/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/omjee9124/LeetHub/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/omjee9124/LeetHub/tree/master/1262-greatest-sum-divisible-by-three) |
