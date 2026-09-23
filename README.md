@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/omjee9124/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omjee9124/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/omjee9124/LeetHub/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/omjee9124/LeetHub/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/omjee9124/LeetHub/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/omjee9124/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/omjee9124/LeetHub/tree/master/0125-valid-palindrome) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/omjee9124/LeetHub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/omjee9124/LeetHub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omjee9124/LeetHub/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/omjee9124/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/omjee9124/LeetHub/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/omjee9124/LeetHub/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/omjee9124/LeetHub/tree/master/0231-power-of-two) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/omjee9124/LeetHub/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/omjee9124/LeetHub/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/omjee9124/LeetHub/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/omjee9124/LeetHub/tree/master/0231-power-of-two) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omjee9124/LeetHub/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/omjee9124/LeetHub/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/omjee9124/LeetHub/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/omjee9124/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/omjee9124/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
