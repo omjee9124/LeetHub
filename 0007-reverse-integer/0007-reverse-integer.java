@@ -1,19 +1,16 @@
 class Solution {
     public int reverse(int x) {
-        long temp = Math.abs(x);
-        long a = 0,d = 0;
-        while(temp!=0){
-            d = temp%10;
-            a = (a*10)+d;
-            temp=temp/10;
+        int res = 0;
+
+        while(x!=0){
+            int mod = x % 10;
+            x = x /10;
+            if(res > Integer.MAX_VALUE/10) return 0;
+            if(res == Integer.MAX_VALUE /10 && mod > 7) return 0;
+            if(res < Integer.MIN_VALUE /10) return 0;
+            if(res == Integer.MIN_VALUE /10 && mod < -8) return 0;
+            res = res * 10 + mod;
         }
-        if(a < Integer.MIN_VALUE || a > Integer.MAX_VALUE){
-            return 0;
-        }
-        if(x>0){
-            return (int)a;
-        }else{
-            return -(int)a;
-        }
+        return res;
     }
 }
